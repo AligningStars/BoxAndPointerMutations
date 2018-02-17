@@ -167,7 +167,7 @@ def main():
     print('T or F: (1 * "hello") == (1 * "hello"?', x == y)
 
     x = 2 * x
-    y = 2 * y          
+    y = 2 * y
     print()
     print('T or F: (2 * "hello") is (2 * "hello"?', x is y)
     print('T or F: (2 * "hello") == (2 * "hello"?', x == y)
